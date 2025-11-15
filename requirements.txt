@@ -1,0 +1,2 @@
+# No external dependencies required for stages 1-2
+# Future stages might require: pyyaml, graphviz, etc.
